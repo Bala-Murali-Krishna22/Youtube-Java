@@ -20,7 +20,7 @@ public class MoviesLinkedHashSet implements SetInterface{
 	}
 
 	public void addValues() {
-		linkedHashSet.add("Tillu");
+		linkedHashSet.add("Tilluu");
 		linkedHashSet.add("Devara");
 		linkedHashSet.add("Kalki");
 		linkedHashSet.add("Pushpa");
