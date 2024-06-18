@@ -1,0 +1,5 @@
+#First db connect details
+#Thu Apr 25 11:33:45 IST 2024
+password=java123
+url=localHost
+username=java
